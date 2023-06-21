@@ -18,4 +18,7 @@
 
     <!-- Height of the status bar header bar when on Keyguard -->
     <dimen name="status_bar_header_height_keyguard">@*android:dimen/status_bar_height</dimen>
+
+    <!-- Whether the combined qs shows in status bar when true, the combined qs will not be available if set it to false  -->
+     <bool name="flag_combined_qs_headers">false</bool>
 </resources>
