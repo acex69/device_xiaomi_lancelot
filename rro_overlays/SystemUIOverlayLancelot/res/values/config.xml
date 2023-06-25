@@ -1,0 +1,5 @@
+    <!-- SystemUI flags -->
+    <bool name="flag_combined_qs_headers">false</bool>
+
+
+
